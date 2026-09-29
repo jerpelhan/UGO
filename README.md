@@ -8,7 +8,11 @@
   <img src="assets/ugo-poster.jpg" alt="UGO — The general multi-object tracker" width="100%">
 </p>
 
-<video src="assets/ugo-teaser.mp4" controls width="100%"></video>
+
+
+https://github.com/user-attachments/assets/e7d22ce2-22c7-44ab-af59-71741411b566
+
+
 
 ## Highlights
 
