@@ -2,6 +2,8 @@
 
 **Accepted to NeurIPS 2026**
 
+https://arxiv.org/pdf/2609.37339
+
 **Code coming soon.**
 
 <p align="center">
@@ -9,10 +11,7 @@
 </p>
 
 
-
-https://github.com/user-attachments/assets/e7d22ce2-22c7-44ab-af59-71741411b566
-
-
+https://github.com/user-attachments/assets/e6891108-3ee1-4f28-8367-7a91f5b2c43e
 
 ## Highlights
 
