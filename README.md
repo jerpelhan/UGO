@@ -2,8 +2,6 @@
 
 **Accepted to NeurIPS 2026**
 
-[https://github.com/jerpelhan/UGO](https://github.com/jerpelhan/UGO)
-
 https://arxiv.org/pdf/2609.37339
 
 
